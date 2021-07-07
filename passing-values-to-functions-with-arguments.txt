@@ -1,0 +1,6 @@
+function functionWithArgs(a ,b){
+  let c = a+b
+  console.log(c)
+}
+
+functionWithArgs(1,2)

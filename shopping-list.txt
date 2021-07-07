@@ -1,0 +1,9 @@
+var myList = [
+           ["jeans" ,1],
+           ["Tshirt",2],
+           ["Tshirt",2],
+           ["Tshirt",2],
+           ["Tshirt",2]
+
+           
+           ];
