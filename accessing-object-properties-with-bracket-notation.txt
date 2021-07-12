@@ -1,0 +1,11 @@
+// Setup
+var testObj = {
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+// Only change code below this line
+
+ let entreeValue=testObj["an entree"];   // Change this line
+ let drinkValue=testObj["the drink"];    // Change this line
